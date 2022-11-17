@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-
+# -*- coding: UTF-8 -*-
+# @Author: 浪飒
+# @File: main.py
+# @Software: PyCharm
 
 import webbrowser
 from flask import render_template, Flask, url_for
